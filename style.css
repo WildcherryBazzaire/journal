@@ -1,6 +1,6 @@
 body {
 	background-image: url('shark.jpg');
-	background-size: 200%;
+	background-size: cover;
 }
 
 
