@@ -1,0 +1,98 @@
+body {
+	background-image: url('shark.jpg');
+	background-size: 200%;
+}
+
+
+
+.heading {
+	text-align: center;
+	font-family: 'Press Start 2P', cursive;
+}
+
+.main_line {
+	width: 65em;
+	min-width: 35em;
+	position:relative;
+	display: block;
+}
+
+.home_page {
+	display: inline-block;
+	border-radius: 20px;
+	background-color: rgba(255, 153, 204, 0.5);
+	position: absolute;
+	padding: 1em 1em 1em 1em;
+	min-width: 14em;
+	max-width: 43em;
+	left: 30.5em;
+	width: 43em;
+}
+
+.navigation {
+	display: inline-block;
+	left: 10em;
+	background-color: rgba(255, 153, 204, 0.5);
+	border-radius: 15px;
+	position:relative;
+	padding: 1em 3em 10em 1em;
+}
+
+.navigation hr {
+	position:relative;
+	top: -0.5em;
+}
+
+.navigation h4 {
+	font-family: 'Press Start 2P', cursive;
+	font-size: 10px;
+}
+
+.dates{
+	font-size: 12px;
+	font-family: 'Lato', sans-serif;
+	position:relative;
+	top: -2em;
+}
+
+ul {
+	list-style:none;
+	padding:0;
+}
+
+li {
+	padding-bottom: 0.4em;
+	
+}
+
+.header {
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 1.2em;
+	
+}
+
+.blog_line{
+	position: relative;
+	width: 12em;
+	right: 15.5em;
+	top:-2em;
+}
+
+.sub_head {
+	font-weight: bold;
+	font-family: 'Ubuntu', sans-serif;
+	
+}
+
+a {
+	transition: all 0.5 ease;
+	text-decoration:none;
+	color: purple;
+	position:relative;
+}
+
+a:hover{
+	top:-2px;
+	color: red; 
+	
+}
