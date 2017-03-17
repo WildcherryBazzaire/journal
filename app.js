@@ -22,3 +22,9 @@ var simplifiedJSON = [
 		]
 	}
 ]
+
+function showAll(data) {
+	for(var key in data){
+		
+	}
+}
